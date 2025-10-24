@@ -84,4 +84,3 @@ Combining both views gives a clear picture of the cluster usage pattern.
 The local version took about 3 minutes using sample data.  
 The cluster run processed the full dataset in about 15–20 minutes.  
 Spark’s parallel computation worked correctly, and output files were created on the master node.
-
